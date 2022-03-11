@@ -6,7 +6,7 @@ This is the extension of the Remote Keyless Entry,as it is operated in single di
 
 # 5W's & 1H
 
-![]()
+![](https://github.com/KeerthuMG/M3_Group40/blob/main/2_BiCom%20System/6_ImagesAndVideos/2SW.jpg)
 
 # Swot Analysis 
 
