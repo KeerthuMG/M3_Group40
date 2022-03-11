@@ -28,6 +28,8 @@ STM32CUBEIDE : The STM32 is a family of microcontroller ICs based on the 32-bit 
 
 ## Swot Analysis
 
+![](https://github.com/KeerthuMG/M3_Group40/blob/main/1_Remote%20Keyless%20Entry/6_ImagesAndVideos/1SW.jpg)
+
 ## High Level Requirements
 
 
