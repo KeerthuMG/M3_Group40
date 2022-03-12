@@ -12,5 +12,5 @@
 
 ### Low Level Diagram
 
-## Flow chat
+## FLOW CHART
 
