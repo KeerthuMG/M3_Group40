@@ -30,11 +30,23 @@ STM32CUBEIDE : The STM32 is a family of microcontroller ICs based on the 32-bit 
 
 ![](https://github.com/KeerthuMG/M3_Group40/blob/main/1_Remote%20Keyless%20Entry/6_ImagesAndVideos/1SW.jpg)
 
-## High Level Requirements
+## High Level Requirement
+
+|ID  |DESCRIPTION                          |
+|:---|:------------------------------------|
+|HLR1|System shall be provided with wireless lock system | 
+|HLR2|System shall be provided with wireless unlock system | 
+|HLR3|System shall be provided with wireless alarm activation and deactivation system |
+|HLR4|System shall be provided with light approach |
 
 
-## Low Level Requirements
-
+## Low  Level requirements 
+|ID  |DESCRIPTION                                                                                      | 
+|:---|:------------------------------------------------------------------------------------------------|
+|LLR1|User shall press blue switch on for lock operation|
+|LLR2|User shall press blue switch twice for unlock operation|
+|LLR3|User shall press blue switch thrice for activation and deactivation of alarm |
+|LLR4|User shall press blue switch four times for light approach operation |
 
 ## Advantages
 
